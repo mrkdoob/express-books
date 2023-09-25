@@ -26,5 +26,8 @@
   "devDependencies": {
     "nodemon": "^2.0.22",
     "prisma": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=18 <19"
   }
 }
